@@ -5,7 +5,8 @@ An advanced, industrial-standard IoT security node built on the **Arduino UNO R4
 ## 📺 Project Demonstration
 Click the link below to watch the fully functional system, including autonomous sensor responses, dual-motor lock mechanism, and live SQLite database logging in action:
 
-👉 **[Watch the Project Demo Video on YouTube] ((https://youtube.com/shorts/0D2d2HGUdos?feature=share))**
+👉 **[Watch the Project Demo Video on YouTube] 
+((https://youtube.com/shorts/0D2d2HGUdos?feature=share))
 
 ---
 
